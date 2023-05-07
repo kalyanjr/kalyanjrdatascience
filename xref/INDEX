@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "f473416b"
+  },
+  "index.qmd": {
+    "index.html": "5d94f2e0"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "87778a21"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "b2a5b14f"
+  },
+  "resume.qmd": {
+    "resume.html": "9f9e4c46"
+  },
+  "projects.qmd": {
+    "projects.html": "706cd83a"
+  },
+  "posts/postwithplot/index.qmd": {
+    "index.html": "90087640"
+  },
+  "posts/project1/index.qmd": {
+    "index.html": "1c8c090b"
+  },
+  "posts/Class Chat/index.qmd": {
+    "index.html": "9cd5a433"
+  },
+  "posts/Data Communication/index.qmd": {
+    "index.html": "973a0ba4"
+  },
+  "skills.qmd": {
+    "skills.html": "dae866b9"
+  }
+}
