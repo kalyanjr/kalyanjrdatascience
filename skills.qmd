@@ -1,0 +1,19 @@
+---
+title: "skills"
+editor: visual
+---
+
+I have developed various skills during my professional practice. Some of the skills are:
+
+1. Programming languages.e. C, Python.
+
+2. Database tools.e.g MysQl, Django
+
+3. Web development tools.e.g HTML, CSS and Javascript
+
+4. Operating systems. e.g Wireshark, Nmap, Burp suite, Cisco Routing
+
+    &Switching.
+    
+5. Other tools/software. e.g MS Office (Word, Power Point, Excel)
+---

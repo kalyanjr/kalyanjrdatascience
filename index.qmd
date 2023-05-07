@@ -1,0 +1,26 @@
+---
+title: "Bandaru"
+image: profile.jpg
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kalyan-bandaru-0038071ba
+    - icon: github
+      text: Github
+      href: https://www.linkedin.com/in/kalyan-bandaru-0038071ba
+    - icon: envelope
+      text: Contact me
+      href: mailto:kalyanpatrudubandaru@my.unt.edu
+
+---
+
+Hi, I'm Kalyan Bandaru, a data scientist with a keen interest in cybersecurity. With a background in computer science, I have worked as an Engineering Intern at BeyondSquareSolution pvt ltd and FireEye, where I have gained valuable experience in the field of cybersecurity. During my time at these companies, I had the opportunity to work on some exciting projects, including academic ones focused on networking and computer security. I was also the lead member on one of the projects I completed.
+
+In addition to my work experience, I am familiar with programming languages such as C and Python, as well as web development tools such as HTML and CSS. I am always looking to expand my skillset and have actively participated in Pen Testing Workshops to improve my knowledge in this area.
+
+As a team player, I work well in groups and am always willing to lend a helping hand to my colleagues. I am also capable of working independently and have a great sense of initiative when it comes to solving problems. Furthermore, I have excellent communication skills, which allow me to effectively convey ideas and work collaboratively with others.
+

@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Skills
+        href: skills.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kalyan-bandaru-0038071ba
+      - icon: telephone
+        href: +1(732) 986-4815 
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

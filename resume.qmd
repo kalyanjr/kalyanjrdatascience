@@ -1,0 +1,10 @@
+---
+title: "Resume"
+editor: visual
+---
+<iframe 
+  width="800" 
+  height="800" 
+  src="bandaru_resume.pdf">
+</iframe>
+---
