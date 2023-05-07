@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Kalyan Bandaru, a data scientist with a keen interest in cybersecurity. With a background in computer science, I have worked as an Engineering Intern at BeyondSquareSolution pvt ltd and FireEye, where I have gained valuable experience in the field of cybersecurity. During my time at these companies, I had the opportunity to work on some exciting projects, including academic ones focused on networking and computer security. I was also the lead member on one of the projects I completed.\nIn addition to my work experience, I am familiar with programming languages such as C and Python, as well as web development tools such as HTML and CSS. I am always looking to expand my skillset and have actively participated in Pen Testing Workshops to improve my knowledge in this area."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bandaru",
+    "section": "",
+    "text": "Hi, I’m Kalyan Bandaru, a data scientist with a keen interest in cybersecurity. With a background in computer science, I have worked as an Engineering Intern at BeyondSquareSolution pvt ltd and FireEye, where I have gained valuable experience in the field of cybersecurity. During my time at these companies, I had the opportunity to work on some exciting projects, including academic ones focused on networking and computer security. I was also the lead member on one of the projects I completed.\nIn addition to my work experience, I am familiar with programming languages such as C and Python, as well as web development tools such as HTML and CSS. I am always looking to expand my skillset and have actively participated in Pen Testing Workshops to improve my knowledge in this area.\nAs a team player, I work well in groups and am always willing to lend a helping hand to my colleagues. I am also capable of working independently and have a great sense of initiative when it comes to solving problems. Furthermore, I have excellent communication skills, which allow me to effectively convey ideas and work collaboratively with others."
+  },
+  {
+    "objectID": "posts/Class Chat/index.html",
+    "href": "posts/Class Chat/index.html",
+    "title": "Class Chat",
+    "section": "",
+    "text": "This is a post with news Class chat.\nDescription:\n• Similar to WhatsApp, this is a chat on the server i.e., made up of two apps, which. Runs on the user’s browser and the server.\n• To chat the user should connect with the server by the process of the login where they can do private and group chat.\n• This application is intended to class or form department."
+  },
+  {
+    "objectID": "posts/Data Communication/index.html",
+    "href": "posts/Data Communication/index.html",
+    "title": "Data Communication",
+    "section": "",
+    "text": "This is a post with news on Data Communication.\nDescription:\n• the aim of the project was about giving a brief demonstration how data transmission will be done on the internet in LAN and WAN using different primitives available in the OpenGL library and combining them together in a required manner.\n• Implementation is done by OpenGL and Microsoft Visual C++"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/postwithplot/index.html",
+    "href": "posts/postwithplot/index.html",
+    "title": "Post With Plot",
+    "section": "",
+    "text": "This is a post with plot.\n\nplot(mtcars$mpg)"
+  },
+  {
+    "objectID": "posts/project1/index.html",
+    "href": "posts/project1/index.html",
+    "title": "Drug Supply Chain Integrity",
+    "section": "",
+    "text": "This is a post with news on Drug supply chain integrity.\nDescription:\n• Explored proof-of-concept application that keeps track of drug records using blockchain technology in a decentralized way\n• Enables manufacturer, supplier, patients, and pharmacists to manage, access a complete individual drug life cycle in a secure and accountable way through comprehensive logs.\n• To achieve the transparency, security, and privacy of the proposed system, we used a smartcontract developed in the solidity programming language in combination with permission blockchain architecture."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Class Chat\n\n\n\n\n\n\n\nanalysis\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nBandaru\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Communication\n\n\n\n\n\n\n\nanalysis\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nBandaru\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nPost With Plot\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nplot\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nBandaru\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDrug Supply Chain Integrity\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nBandaru\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "skills",
+    "section": "",
+    "text": "I have developed various skills during my professional practice. Some of the skills are:\n\nProgramming languages.e. C, Python.\nDatabase tools.e.g MysQl, Django\nWeb development tools.e.g HTML, CSS and Javascript\nOperating systems. e.g Wireshark, Nmap, Burp suite, Cisco Routing\n&Switching.\nOther tools/software. e.g MS Office (Word, Power Point, Excel)"
+  }
+]
